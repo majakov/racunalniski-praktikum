@@ -91,8 +91,14 @@ INPUT .\urnik.aux
 INPUT .\urnik.aux
 INPUT urnik.aux
 OUTPUT urnik.aux
-OUTPUT urnik.out
+INPUT .\urnik.out
+INPUT .\urnik.out
+INPUT urnik.out
+INPUT urnik.out
 OUTPUT urnik.pdf
+INPUT .\urnik.out
+INPUT .\urnik.out
+OUTPUT urnik.out
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmr17.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\lm\ot1lmr.fd
